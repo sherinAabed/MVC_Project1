@@ -341,3 +341,5 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\bin\Debug\net9.0\runtimes\win-arm6
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Debug\net9.0\compressed\k2ltt23yez-{0}-3w7jejt5b1-3w7jejt5b1.gz
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Debug\net9.0\compressed\l54iioz692-{0}-vtm9dvzpet-vtm9dvzpet.gz

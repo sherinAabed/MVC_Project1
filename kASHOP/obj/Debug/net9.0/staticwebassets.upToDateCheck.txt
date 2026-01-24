@@ -1,3 +1,10 @@
+wwwroot\Admin\css\adminlte.css
+wwwroot\Admin\imgs\AdminLTEFullLogo.png
+wwwroot\Admin\imgs\user1-128x128.jpg
+wwwroot\Admin\imgs\user2-160x160.jpg
+wwwroot\Admin\imgs\user3-128x128.jpg
+wwwroot\Admin\imgs\user8-128x128.jpg
+wwwroot\Admin\js\adminlte.js
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
@@ -127,3 +134,5 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.sli
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\styles.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\js\scripts.js
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\css\adminlte.css
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\js\adminlte.js
