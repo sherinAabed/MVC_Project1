@@ -19,8 +19,6 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Views\NewFolder1\" />
     <Folder Include="Areas\Admin\Views\Views\NewFolder\" />
-    <Folder Include="Areas\User\Views - Copy\NewFolder1\" />
-    <Folder Include="Areas\User\Views - Copy\NewFolder\" />
     <Folder Include="Areas\User\Views\NewFolder1\" />
     <Folder Include="Areas\User\Views\NewFolder\" />
   

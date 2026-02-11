@@ -63,6 +63,8 @@
                                 <div class="card-body">
                                     <div class="card-header">
                                         <h3 class="card-title">Title</h3>
+
+
                                         <div class="card-tools">
                                             <button type="button" class="btn btn-tool" data-lte-toggle="card-collapse" title="Collapse">
                                                 <i data-lte-icon="expand" class="bi bi-plus-lg"></i>
@@ -72,13 +74,16 @@
                                                 <i class="bi bi-x-lg"></i>
                                             </button>
                                         </div>
+
                                     </div>
+                                    @RenderBody()
+
                                 </div>
 
                             </div>
 
 
-                         @RenderBody()
+                         @* @RenderBody() *@
                             <!-- /.card -->
                         </div>
                     </div>
@@ -113,7 +118,7 @@
     <!--end::App Wrapper-->
     <!--begin::Script-->
     <partial name="_Scripts" />
-
+    @RenderSection("Scripts",false)
     <!--end::Script-->
 </body>
 <!--end::Body-->

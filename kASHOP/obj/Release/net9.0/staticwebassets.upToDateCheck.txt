@@ -1,3 +1,10 @@
+wwwroot\Admin\css\adminlte.css
+wwwroot\Admin\imgs\AdminLTEFullLogo.png
+wwwroot\Admin\imgs\user1-128x128.jpg
+wwwroot\Admin\imgs\user2-160x160.jpg
+wwwroot\Admin\imgs\user3-128x128.jpg
+wwwroot\Admin\imgs\user8-128x128.jpg
+wwwroot\Admin\js\adminlte.js
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
@@ -63,13 +70,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\Admin\css\adminlte.css
-wwwroot\Admin\imgs\AdminLTEFullLogo.png
-wwwroot\Admin\imgs\user1-128x128.jpg
-wwwroot\Admin\imgs\user2-160x160.jpg
-wwwroot\Admin\imgs\user3-128x128.jpg
-wwwroot\Admin\imgs\user8-128x128.jpg
-wwwroot\Admin\js\adminlte.js
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\css\adminlte.css
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\js\adminlte.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\site.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\styles.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\favicon.ico
@@ -134,5 +136,3 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.sli
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\css\adminlte.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\js\adminlte.js

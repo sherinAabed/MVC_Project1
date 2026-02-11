@@ -70,8 +70,12 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\css\adminlte.css
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\js\adminlte.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\site.css
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\styles.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\favicon.ico
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\js\scripts.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\js\site.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -132,7 +136,3 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.sli
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\css\styles.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\js\scripts.js
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\css\adminlte.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\wwwroot\Admin\js\adminlte.js

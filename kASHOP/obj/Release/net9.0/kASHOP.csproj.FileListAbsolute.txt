@@ -257,12 +257,11 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\rjimswa.dswa.ca
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\Areas\Admin\Views\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\Areas\User\Views - Copy\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\bundle\kASHOP.styles.css
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\scopedcss\projectbundle\kASHOP.bundle.scp.css
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\k2ltt23yez-{0}-3w7jejt5b1-3w7jejt5b1.gz
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\l54iioz692-{0}-vtm9dvzpet-vtm9dvzpet.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\ddbff3kx47-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\ev4mwkaylj-{0}-050gf1li0j-050gf1li0j.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\kcremh3x4w-{0}-61n19gt1b8-61n19gt1b8.gz
@@ -327,8 +326,8 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\waug
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\77lxf56qum-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\dq74f1hy26-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\du8sqwd4ay-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\sf7r58a6fk-{0}-e2fmz1isnh-e2fmz1isnh.gz
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\w18etiv9ye-{0}-e2fmz1isnh-e2fmz1isnh.gz
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\sf7r58a6fk-{0}-uzbpivhij5-uzbpivhij5.gz
+C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\w18etiv9ye-{0}-uzbpivhij5-uzbpivhij5.gz
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\staticwebassets.development.json
@@ -341,5 +340,3 @@ C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\refint\kASHOP.d
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\kASHOP.pdb
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\kASHOP.genruntimeconfig.cache
 C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\ref\kASHOP.dll
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\k2ltt23yez-{0}-3w7jejt5b1-3w7jejt5b1.gz
-C:\Users\SS\Desktop\backEnd\MVC\kASHOP\kASHOP\obj\Release\net9.0\compressed\l54iioz692-{0}-vtm9dvzpet-vtm9dvzpet.gz
